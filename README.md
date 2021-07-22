@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZPlumridge
-- 👀 I’m interested in AI, data science, and medicine
+- 👀 I’m interested in AI, data science, textiles, and medicine
 - 🌱 I’m currently learning Swift
 <!---- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me: zrplumridge@gmail.com
